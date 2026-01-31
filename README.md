@@ -9,7 +9,7 @@ This is Module 2 of 5 of the [12-week Security Architect Program](https://github
 * #### Compare defenses across clouds
 
 #### Deliverables:
-* Defense Toolkit Repo + Model Hardening Playbook (Walkthrough link coming next prompt)
+* Defense Toolkit Repo + Model Hardening Playbook: [Link to walkthrough](https://github.com/epatter1/AI_Model_Defense_Hardening_Toolkit/tree/main)
 
 ---
 
