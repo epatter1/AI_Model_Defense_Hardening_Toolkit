@@ -325,7 +325,3 @@ Includes:
 
 ### ✅ **Model Hardening Playbook**
 Enterprise‑ready documentation for AI security teams.
-
----
-
-Just tell me which one you want next.
