@@ -100,8 +100,6 @@ python -c "import torch, art, opacus, boto3; print('All libraries installed')"
 
 **Create:** `adversarial-training/01_adversarial_training.ipynb`
 
-### Complete Sample Code for `01_adversarial_training.ipynb`
-
 ```python
 # Cell 1: Imports and Setup
 import os
@@ -310,8 +308,6 @@ estimator.fit({"training": "s3://YOUR-BUCKET/data/train/"})
 ## **Step 3: Differential Privacy – AWS Version (45–60 min)**
 
 **Create:** `differential-privacy/02_dp_training.ipynb`
-
-### Complete Sample Code for `02_dp_training.ipynb`
 
 ```python
 # Cell 1: Imports and Setup
@@ -527,8 +523,6 @@ else:
 
 **Create:** `robustness-dashboard/app.py`
 
-### Complete Sample Code for `app.py`
-
 ```python
 """
 AI Defense Toolkit – Robustness Dashboard (Streamlit demo with AWS integration).
@@ -716,11 +710,6 @@ if __name__ == "__main__":
 
 **Create:** `cloud-comparison/aws_bedrock_defense.md` (and keep it as the main AWS reference)
 
-### Complete Sample Content for `aws_bedrock_defense.md`
-
-```markdown
-# AWS Bedrock Defense Stack – Complete Guide
-
 ## Overview
 
 This document outlines AWS-specific defense controls for AI model hardening, including Bedrock Guardrails, SageMaker security, S3 data protection, and CloudWatch monitoring.
@@ -729,11 +718,9 @@ This document outlines AWS-specific defense controls for AI model hardening, inc
 
 ## A. Guardrails
 
-### Bedrock Guardrails
-
 **Bedrock Guardrails** provide content filtering, topic denial, word filters, and PII redaction for LLM deployments.
 
-#### Sample Code: Create Bedrock Guardrail
+#### Create Bedrock Guardrail
 
 ```python
 import boto3
