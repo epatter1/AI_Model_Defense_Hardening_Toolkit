@@ -1,5 +1,7 @@
 # 🛡️ **AI Defense Toolkit – AWS Version (Step-by-Step Walkthrough)**
 
+[Back to Weeks 3-4 overview: AI Defense Toolkit](https://github.com/epatter1/AI_Model_Defense_Hardening_Toolkit/blob/main/README.md)
+
 ## 📋 Overview
 
 This walkthrough implements **model hardening** on **AWS**: adversarial training, differential privacy, robustness evaluation, and defense controls using **SageMaker**, **Bedrock**, **S3**, **IAM**, and **CloudWatch**.
